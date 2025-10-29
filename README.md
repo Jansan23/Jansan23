@@ -59,7 +59,7 @@
 <!-- LinkedIn -->
 <p>
   LinkedIn:
-  <a href="www.linkedin.com/in/jansan-jekilan">
+  <a href="https://www.linkedin.com/in/jansan-jekilan/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" style="vertical-align:middle; margin-left:6px;" />
   </a>
 </p>
